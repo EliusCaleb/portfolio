@@ -47,9 +47,9 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.I am best in react, ruby on rails**
+💬 I'm an expert on **the technologies React and Ruby on Rails. Currently studying typescript and angular as part of my internship at Italanta**
 
-📝 I regularly write articles on [https://blog.medium.com/](https://blog.italanta.net/)
+📝 I regularly write articles on [https://blog.medium.com/]
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
@@ -82,12 +82,18 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Project Salama</h2>
 
 <p align="right"><b>2023</b></p>
 
 <p>
-  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+  <!-- Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted. -->
+  Started in 2020 with an idea to create a new tracking device that was hard to locate and dismantle
+
+  Motorcycle theft and related crimes have been on the rise leading to loss of assets and lives. This was the genesis of the Salama Tracking Technologies. We exist to protect your assets.
+
+  We are creating custom tracking solutions for the Boda Boda Industry.
+  Specializing in creating hardware devices running on custom software solutions.  
 </p>
 <p>
   <!-- Add summary of your own contributions -->
